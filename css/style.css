@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(176, 239, 105);
+    margin: 50px ;
+}
+p{
+    background-color: aquamarine;
+    padding: 10px;
+    border: 2px solid rgba(17, 65, 19, 0.648);
+    border-radius: 5%;
+    font-size: 30px;
+}
+ div {
+    color: black;
+    text-align: center;
+    width: 80%;
+ }
